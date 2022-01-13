@@ -1,5 +1,5 @@
 # Đồ án CK ERP, đề tài Blockchain SCM
-- Link React: https://github.com/megaphieu/MyDapps_ERP
+- Link Frontend React: https://github.com/megaphieu/MyDapps_ERP
 - Link Contracts: https://github.com/megaphieu/Contracts_ERP
 
 ## Nhóm
